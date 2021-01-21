@@ -1,0 +1,9 @@
+Bạn được phép bắt đầu kiểm tra bất cứ khi nào bạn muốn. Bộ hẹn giờ sẽ chỉ bắt đầu khi bạn bắt đầu kiểm tra. Tuy nhiên, hãy nhớ rằng quản trị viên có toàn quyền vô hiệu hóa kiểm tra bất kỳ lúc nào. Vì vậy, nên bắt đầu kiểm tra vào thời gian quy định.
+Bạn có thể xem lịch sử của bài kiểm tra đã thực hiện và điểm trong phần 'Lịch sử'.
+Để bắt đầu kiểm tra, hãy nhấp vào 'Bắt ​​đầu'.
+Khi quá trình kiểm tra được bắt đầu, đồng hồ sẽ chạy bất kể bạn đã đăng nhập hay ghi trạng thái của chúng tôi. Vì vậy, không nên đăng xuất trước khi hoàn thành thử nghiệm.
+Để đánh dấu một câu trả lời, bạn cần chọn câu trả lời đó và nhấn nút 'Khóa'. Khi khóa, câu trả lời đã chọn sẽ được hiển thị và câu hỏi sẽ được đánh dấu "màu xanh lá cây"
+Để xóa một câu trả lời, hãy nhấn .
+Sử dụng các nút điều hướng để điều hướng qua các câu hỏi khác nhau.
+Các điểm cho câu trả lời đúng và sai được liệt kê ở trên trong bảng. 0 điểm sẽ được trao cho các câu hỏi "không được đánh dấu" (có trạng thái "màu đỏ").
+Nếu bạn gặp một số lỗi, bạn có thể liên hệ với chúng tôi qua mẫu này.
